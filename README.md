@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Itzmeanjali
 - 👀 I’m interested in programming and always open to learn and explore things 
-- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Hackathons 
 - 📫 How to reach me @https://www.linkedin.com/in/anjali-kumari-91a504247
 
