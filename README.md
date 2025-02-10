@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anjal10911
 - 👀 I’m interested in programming and always open to learn and explore things 
-- 💞️ I’m looking to collaborate on Hackathons 
+- 💞️ I'm interested in collaborating on innovative projects and hackathons to develop impactful solutions.
 - 📫 How to reach me @https://www.linkedin.com/in/anjali-kumari-91a504247
 
 <!---
