@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Itzmeanjali
+- 👋 Hi, I’m @Anjal10911
 - 👀 I’m interested in programming and always open to learn and explore things 
 - 💞️ I’m looking to collaborate on Hackathons 
 - 📫 How to reach me @https://www.linkedin.com/in/anjali-kumari-91a504247
